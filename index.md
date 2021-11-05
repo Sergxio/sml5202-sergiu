@@ -6,7 +6,7 @@ title: home
 <p>Write your content in here as you would normally in HTML</p>
 <p>Here you can&nbsp;</p>
 <ul>
-<li>>Improve your knowledge of a language</span></li>
-<li><">Learn a new language from beginner level</span></li>
-<li><>Track of your progress&nbsp;&nbsp;</span></li>
+<li>Improve your knowledge of a languag
+<li>Learn a new language from beginner level
+<li>Track of your progress
 </ul>
