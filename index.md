@@ -20,7 +20,11 @@ title: home
     </div>
     <div class="col-sm-6">
       <h3>Column 2</h3>
-      <p>Lorem ipsum dolor..</p>
+      <ol>
+<li><a href="https://en.wikipedia.org/wiki/Seville">Seville</a></li>
+<li>Madrid</li>
+<li>Barcelona</li>
+</ol>
     </div>
   </div>
 </div>
