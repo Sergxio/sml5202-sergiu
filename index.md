@@ -6,8 +6,8 @@ title: home
 <p>Write your content in here as you would normally in HTML</p>
 <p>Here you can&nbsp;</p>
 <ul>
-<li>Improve your knowledge of a language</li>
-<li>Learn a new language from beginner level</li>
+<li>Learn about Spain and it's best places to visit</li>
+ <li>Learn the basic level of spanish needed for travelling to Spain</li>
 <li>Track of your progress</li>
 </ul>
 
