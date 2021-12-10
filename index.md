@@ -3,9 +3,6 @@ title: home
 ---
 
 <h1>Bienvenidos a esta aventura/Welcome to this adventure!</h1>
-font-size: 16px;
-line-height: 1.5;
-color: #000000;
 <p></p>
 <p>Here you can&nbsp;</p>
 <ul>
