@@ -2,8 +2,8 @@
 title: home
 ---
 
-<h1>Welcome</h1>
-<p>Write your content in here as you would normally in HTML</p>
+<h1>Bienvenidos a esta aventura/Welcome to this adventure!</h1>
+<p></p>
 <p>Here you can&nbsp;</p>
 <ul>
 <li>Learn about Spain and it's best places to visit</li>
