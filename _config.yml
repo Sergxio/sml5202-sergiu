@@ -1,5 +1,5 @@
 # --- Change what appears in the banner and meta data of your pages --- #
-title: Learn Spanish with Sergio
+title: Learn Spanish with Sergio - Travel edition
 description: Find a world you never knew about
 
 # --- Specify the language of site --- #
@@ -19,7 +19,7 @@ github:
 # --- Change the words after the colons to change your navigation labels --- #
 navbar-links:
   page1: Home
-  page2: Beginner
-  page3: Intermediate
-  page4: Advanced
-  page5: Native
+  page2: About Spain
+  page3: Places to visit
+  page4: Learn Spanish!
+  page5: Test your learning
