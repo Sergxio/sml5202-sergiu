@@ -4,9 +4,9 @@ title: home
 
 <h1>Bienvenidos a esta aventura/Welcome to this adventure!</h1>
 <p></p>
-<p>Here you can&nbsp;</p>
+<p>Here you can:&nbsp;</p>
 <ul>
-<li>Learn about Spain and it's best places to visit</li>
+<li>Learn about Spain and its best places to visit</li>
  <li>Learn the basic level of spanish needed for travelling to Spain</li>
 <li>Track of your progress</li>
 </ul>
