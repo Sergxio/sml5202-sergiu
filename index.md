@@ -14,9 +14,7 @@ title: home
       </div>
     <div class="col-sm-6">
       <h3>Column 2</h3>
-      <ol>
-       <img src=https://upload.wikimedia.org/wikipedia/commons/7/75/Seville_guadalquivir_river.jpg style="width:80%">
-   </ol>
-    </div>
-  </div>
+      <p></p>
+<img src=https://upload.wikimedia.org/wikipedia/commons/7/75/Seville_guadalquivir_river.jpg style="width:80%">
 </div>
+
