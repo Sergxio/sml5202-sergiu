@@ -8,7 +8,7 @@ title: Page2
 <div class="col-sm-6">
 <h3>Best places in Spain</h3>
 <p></p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Spain_%28Civil%29_alternate_colours.svg" style="width:100%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Seville_guadalquivir_river.jpg style="width:80%">
 </div>
 <div class="col-sm-6">
 <h3>Column 2</h3>
