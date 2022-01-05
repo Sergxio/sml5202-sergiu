@@ -4,13 +4,6 @@ title: home
 
 <h1>Bienvenidos a esta aventura/Welcome to this adventure!</h1>
 <p></p>
-<p>Here you can:&nbsp;</p>
-<ul>
-<li>Learn about Seville and its best places to visit</li>
- <li>Learn the basic level of spanish needed for travelling to Seville</li>
-<li>Track of your progress</li>
-</ul>
-
 <div class="container">
   <div class="row">
     <div class="col-sm-6">
