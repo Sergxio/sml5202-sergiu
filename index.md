@@ -15,9 +15,9 @@ title: home
     <div class="col-sm-6">
       <h3>Column 2</h3>
       <ol>
+           <li><a href="https://en.wikipedia.org/wiki/Seville">Seville</a></li>
        <img src=https://upload.wikimedia.org/wikipedia/commons/7/75/Seville_guadalquivir_river.jpg style="width:80%">
-        <li><a href="https://en.wikipedia.org/wiki/Seville">Seville</a></li>
-      </ol>
+   </ol>
     </div>
   </div>
 </div>
