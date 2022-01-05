@@ -6,7 +6,7 @@ title: Page2
 <div class="container">
 <div class="row">
 <div class="col-sm-6">
-<h3>Best places in Spain</h3>
+<h3>A little bit about Seville</h3>
 <p></p>
  <p><a title="Seville" href="https://en.wikipedia.org/wiki/Seville">Seville</a></p>
 <p><img style="width: 80%;" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Seville_guadalquivir_river.jpg" /></p>
