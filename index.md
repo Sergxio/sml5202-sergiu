@@ -13,7 +13,7 @@ title: home
 <p>I have created this page as a guide for anyone who is thinking about visiting Seville and also to show my love for Seville and hopefully inspire you to visit it!&nbsp;</p>
       </div>
     <div class="col-sm-6">
-      <h3>Column 2</h3>
+      <h3></h3>
  <p></p>
 <p><img style="width: 80%;" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Seville_guadalquivir_river.jpg" /></p>
 </div>
