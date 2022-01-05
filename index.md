@@ -15,10 +15,9 @@ title: home
     <div class="col-sm-6">
       <h3>Column 2</h3>
       <ol>
+        <li><a href="https://en.wikipedia.org/wiki/Seville">Seville</a></li>
       <p><img src="file:///C:/Users/lilxe/Downloads/image0.jpeg" alt="" /><img src="file:///C:/Users/lilxe/Downloads/image0.jpeg" alt="" width="400" height="300" /></p>
-       
-<li><a href="https://en.wikipedia.org/wiki/Seville">Seville</a></li>
-</ol>
+ </ol>
     </div>
   </div>
 </div>
