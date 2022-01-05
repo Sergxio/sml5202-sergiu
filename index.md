@@ -23,9 +23,8 @@ title: home
       <h3>Column 2</h3>
       <ol>
        <p><img src="file:///C:/Users/lilxe/Downloads/image0.jpeg" alt="" /></p>
+       
 <li><a href="https://en.wikipedia.org/wiki/Seville">Seville</a></li>
-<li>Madrid</li>
-<li>Barcelona</li>
 </ol>
     </div>
   </div>
