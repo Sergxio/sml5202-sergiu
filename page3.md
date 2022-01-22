@@ -2,17 +2,14 @@
 <p>write your content in this file as you would normally</p>
 <div class="container">
   <div class="row">
-    <div class="col-sm-6">
-      <h3>Why visit Spain?</h3>
+    <div class="col-sm-8">
+      <h3>Where to go in Seville</h3>
       <p></p>
        
     </div>
     <div class="col-sm-4">
       <h3>Column 2</h3>
-      <ol>
-<li><a href="https://en.wikipedia.org/wiki/Seville">Seville</a></li>
-<li>Madrid</li>
-<li>Barcelona</li>
+      <ol> 
 </ol>
     </div>
   </div>
