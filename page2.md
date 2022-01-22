@@ -8,7 +8,6 @@ title: Page2
 <div class="col-sm-6">
 <h3>A little bit about Seville</h3>
 <p></p>
- <p><a title="Seville" href="https://en.wikipedia.org/wiki/Seville">Seville</a></p>
 <img src='images/image1.jpeg' alt='Seville Cathedral' width="500" >
 </div>
 <div class="col-sm-6">
