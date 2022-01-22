@@ -11,13 +11,11 @@
     <div class="col-sm-4">
       <img src="images/image1.jpeg" alt="Catedral de Sevilla" style="width:100%">
       <p class="figure-caption text-end">Figure 2: Catedral de Sevilla </p>
- <p>Some text about the English language.</p>
-    
-  </div>
-   
+ <p>Some text about the English language.</p>  
+   </div>
     <div class="col-sm-4">
       <img src="images/IMG-2697.jpg" alt="Las setas de Sevilla" style="width:100%">
       <p class="figure-caption text-end">Figure 3: Las setas de Sevilla </p>
-      <p>Some text about the English language.</p>
+      <p></p>
   </div>
-  </div>
+  
