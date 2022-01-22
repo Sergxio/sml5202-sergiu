@@ -1,6 +1,5 @@
 <h1>Places to visit in Seville</h1>
 <p>write your content in this file as you would normally</p>
- =
 <div class="container">
 <div class="container">
 <div class="row">
