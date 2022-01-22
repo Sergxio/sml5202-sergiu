@@ -9,7 +9,7 @@ title: Page2
 <h3>A little bit about Seville</h3>
 <p></p>
  <p><a title="Seville" href="https://en.wikipedia.org/wiki/Seville">Seville</a></p>
-<p><img style="width: 80%;" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Seville_guadalquivir_river.jpg" /></p>
+<img src='images/image1.jpeg' alt='Seville Cathedral' width="300" height="200" >
 </div>
 <div class="col-sm-6">
 <h3>Column 2</h3>
